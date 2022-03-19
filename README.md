@@ -1,7 +1,7 @@
 
 
 Hello !
-In this repositorie i'll upload different scraping scripts that i've made.
+In this repository i'll upload different scraping scripts that i've made.
 =======
 
 
